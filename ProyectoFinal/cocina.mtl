@@ -1,13 +1,4 @@
-newmtl initialShadingGroup
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tela.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__Black
+newmtl cochera:pasted__Black
 illum 4
 Kd 0.18 0.18 0.18
 Ka 0.10 0.10 0.10
@@ -15,7 +6,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Black0
+newmtl cochera:pasted__Black0
 illum 4
 Kd 0.18 0.18 0.18
 Ka 0.10 0.10 0.10
@@ -23,7 +14,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Black3
+newmtl cochera:pasted__Black3
 illum 4
 Kd 0.22 0.22 0.22
 Ka 0.10 0.10 0.10
@@ -31,7 +22,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Black5
+newmtl cochera:pasted__Black5
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.10 0.10 0.10
@@ -39,7 +30,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Cream
+newmtl cochera:pasted__Cream
 illum 4
 Kd 0.98 0.88 0.81
 Ka 0.10 0.10 0.10
@@ -47,7 +38,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 157.59
-newmtl pasted__Crome0
+newmtl cochera:pasted__Crome0
 illum 4
 Kd 0.19 0.13 0.04
 Ka 0.00 0.00 0.00
@@ -55,7 +46,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 548.75
-newmtl pasted__Crome2
+newmtl cochera:pasted__Crome2
 illum 4
 Kd 0.19 0.13 0.04
 Ka 0.00 0.00 0.00
@@ -63,7 +54,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 548.75
-newmtl pasted__Crome4
+newmtl cochera:pasted__Crome4
 illum 4
 Kd 0.19 0.13 0.04
 Ka 0.00 0.00 0.00
@@ -71,15 +62,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 548.75
-newmtl pasted__Glass
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 0.00 0.00 0.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__Glass0
+newmtl cochera:pasted__Glass0
 illum 4
 Kd 0.97 0.96 0.96
 Ka 0.00 0.00 0.00
@@ -88,15 +71,7 @@ bump  -bm 0 VWBFarB.png
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 2048.00
-newmtl pasted__Glass2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 0.00 0.00 0.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__Glass4
+newmtl cochera:pasted__Glass4
 illum 4
 Kd 0.00 0.13 0.16
 Ka 0.00 0.00 0.00
@@ -104,25 +79,7 @@ Tf 0.50 0.50 0.50
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 73.52
-newmtl pasted__Gotham_Sign_ArkhamCityLogo
-illum 4
-Kd 0.59 0.59 0.59
-Ka 0.59 0.59 0.59
-Tf 1.00 1.00 1.00
-Ni 1.50
-Ks 0.00 0.00 0.00
-Ns 10.00
-newmtl pasted__Gotham_Sign_BigScreen_MAT
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Gotham_Sign_BigScreen_D.tga
-map_Ka Gotham_Sign_BigScreen_D.tga
-Ni 1.50
-Ks 0.00 0.00 0.00
-Ns 10.00
-newmtl pasted__Gray
+newmtl cochera:pasted__Gray
 illum 4
 Kd 0.70 0.70 0.70
 Ka 0.10 0.10 0.10
@@ -130,7 +87,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Gray0
+newmtl cochera:pasted__Gray0
 illum 4
 Kd 0.70 0.70 0.70
 Ka 0.10 0.10 0.10
@@ -138,7 +95,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Gray_2
+newmtl cochera:pasted__Gray_2
 illum 4
 Kd 0.29 0.29 0.29
 Ka 0.57 0.57 0.57
@@ -146,7 +103,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.51 0.51 0.51
 Ns 388.02
-newmtl pasted__Green
+newmtl cochera:pasted__Green
 illum 4
 Kd 0.33 0.77 0.71
 Ka 0.00 0.00 0.00
@@ -154,7 +111,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 2048.00
-newmtl pasted__Green0
+newmtl cochera:pasted__Green0
 illum 4
 Kd 0.33 0.77 0.71
 Ka 0.00 0.00 0.00
@@ -162,7 +119,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 2048.00
-newmtl pasted__Grey
+newmtl cochera:pasted__Grey
 illum 4
 Kd 0.22 0.22 0.22
 Ka 0.00 0.00 0.00
@@ -171,7 +128,7 @@ bump  -bm 0 VWBWhelB.png
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 32.00
-newmtl pasted__Interior
+newmtl cochera:pasted__Interior
 illum 4
 Kd 0.67 0.67 0.62
 Ka 0.10 0.10 0.10
@@ -179,7 +136,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Interior0
+newmtl cochera:pasted__Interior0
 illum 4
 Kd 0.67 0.67 0.62
 Ka 0.10 0.10 0.10
@@ -187,7 +144,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Interior_grids
+newmtl cochera:pasted__Interior_grids
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.10 0.10 0.10
@@ -196,7 +153,7 @@ map_Kd VWBSalpT.png
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Km
+newmtl cochera:pasted__Km
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.10 0.10 0.10
@@ -204,89 +161,368 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.90 0.90 0.90
 Ns 32.00
-newmtl pasted__Material
+newmtl cochera:pasted__Orange
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
+map_Kd taillight.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2048.00
+newmtl cochera:pasted__Picture
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd VWBPicT.png
+bump  -bm 0 VWBPicT.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 16.00
+newmtl cochera:pasted__Place
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+map_Kd LICENSE.png
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 32.00
+newmtl cochera:pasted__Place0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 32.00
+newmtl cochera:pasted__Red_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRAKELIGHT.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 445.72
+newmtl cochera:pasted__Red_3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BRAKELIGHT.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2048.00
+newmtl cochera:pasted__Turquese_blue
+illum 4
+Kd 0.33 0.77 0.71
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2048.00
+newmtl cochera:pasted__black1
+illum 4
+Kd 0.09 0.09 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 32.00
+newmtl cochera:pasted__blue
+illum 4
+Kd 0.33 0.77 0.71
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 2048.00
+newmtl cochera:pasted__crome
+illum 4
+Kd 0.19 0.14 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 548.75
+newmtl cochera:pasted__interior1
+illum 4
+Kd 0.60 0.59 0.50
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 10.56
+newmtl cochera:pasted__phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sg_wd0804w8e-xsp_001_front.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl cochera:pasted__phong2SG8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Wd_sml_b.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl cochera:pasted__phong3SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vio_red1.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Tred_sml.jpg
+Ns 18.00
+newmtl cochera:pasted__tube
+illum 4
+Kd 0.28 0.32 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.90 0.90 0.90
+Ns 32.00
+newmtl cochera:pasted__white
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 157.59
+newmtl cochera1:pasted__phong2SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sg_wd0804w8e-xsp_001_front.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl cocina:pasted__Glass2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__Wood_04
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 10.00
+newmtl cocina:pasted__chrome5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd DisplacementMapMetal.png
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__chrome7
+illum 4
+Kd 0.60 0.60 0.70
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__def2
+illum 4
+Kd 0.90 0.90 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl cocina:pasted__farfor2
+illum 4
+Kd 0.90 0.90 0.90
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 10.00
+newmtl cocina:pasted__farfor_black2
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 10.00
+newmtl cocina:pasted__farfor_brown2
+illum 4
+Kd 0.20 0.20 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.60 0.60
+Ns 10.00
+newmtl cocina:pasted__glass_37
+illum 4
+Kd 0.40 0.40 0.40
+Ka 0.00 0.00 0.00
+Tf 0.20 0.20 0.20
+Ni 1.00
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl cocina:pasted__metal2
+illum 4
+Kd 0.25 0.25 0.25
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__metal_black3
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__phong2SG5
+illum 4
+Kd 0.03 0.18 0.50
+Ka 0.00 0.00 0.00
+Tf 0.63 0.63 0.63
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl cocina:pasted__phong3SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl cocina:pasted__plastic_black4
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__plastic_black6
+illum 4
+Kd 0.10 0.10 0.10
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 10.00
+newmtl cocina:pasted__stoleshenica2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 3.jpg
+Ni 1.00
+Ks 0.10 0.10 0.10
+Ns 10.00
+newmtl cocina:pasted__wire_228153184
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.35 0.35 0.35
+Ns 32.00
+newmtl habitacion:pasted__pasted__phong4SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl habitacion:pasted__pasted__phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 20083271857385346.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl habitacion:pasted__pasted__phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Madera.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl habitacion:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks AS2__glass_bump_06.jpg
+Ns 18.00
+newmtl initialShadingGroup1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tela.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl maceta1
+illum 4
+Kd 0.37 0.37 0.37
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__Material2
+newmtl pasted__Glass
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.80 0.76 0.46
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
+Tf 0.22 0.22 0.22
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
 newmtl pasted__Material_001
 illum 4
-Kd 1.00 0.84 0.23
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.07 0.07 0.07
 Ns 96.08
-newmtl pasted__Material_003
+newmtl pasted__Material_002
 illum 4
-Kd 0.01 0.01 0.01
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material_011
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.15 0.15 0.15
 Ns 96.08
 newmtl pasted__Material_013
 illum 4
@@ -312,699 +548,222 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__Material_019
+newmtl pasted__Material__103
 illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
+Kd 1.00 0.71 0.57
+Ka 0.59 0.59 0.59
 Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material_021
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Material_023
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__Orange
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd taillight.png
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 2048.00
-newmtl pasted__Picture
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd VWBPicT.png
-bump  -bm 0 VWBPicT.png
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 16.00
-newmtl pasted__Place
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.10 0.10 0.10
-Tf 1.00 1.00 1.00
-map_Kd LICENSE.png
-Ni 1.00
-Ks 0.90 0.90 0.90
-Ns 32.00
-newmtl pasted__Place0
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.10 0.10 0.10
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.90 0.90 0.90
-Ns 32.00
-newmtl pasted__Red_1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd BRAKELIGHT.png
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 445.72
-newmtl pasted__Red_3
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd BRAKELIGHT.png
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 2048.00
-newmtl pasted__Turquese_blue
-illum 4
-Kd 0.33 0.77 0.71
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 2048.00
-newmtl pasted__Wood_02
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__107
 illum 4
 Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
 Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.10 0.10 0.10
-Ns 10.00
-newmtl pasted__Wood_04
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__110
+illum 4
+Kd 1.00 0.71 0.57
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__112
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.01
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__114
+illum 4
+Kd 1.00 0.71 0.57
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__116
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd 1.jpg
-Ni 1.00
-Ks 0.10 0.10 0.10
-Ns 10.00
-newmtl pasted__black1
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__123
 illum 4
-Kd 0.09 0.09 0.09
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rotan_d.jpg
+map_Ka rotan_d.jpg
+bump  -bm 0 rotan_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__125
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__127
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__128
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__129
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__130
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Material__133
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wood_d.jpg
+map_Ka wood_d.jpg
+bump  -bm 0 wood_b.jpg
+Ni 1.60
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__Metal
+illum 4
+Kd 0.38 0.38 0.38
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 32.00
-newmtl pasted__blue
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__None
 illum 4
-Kd 0.33 0.77 0.71
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00
+newmtl pasted__chrom1
+illum 4
+Kd 0.20 0.20 0.20
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 2.97
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__metal_matte
+illum 4
+Kd 0.44 0.44 0.44
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 2.97
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__mirror__1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.01
+Ks 0.00 0.00 0.00
+Ns 50.00
+newmtl pasted__mrr005_metall__V
+illum 4
+Kd 0.50 0.31 0.17
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 1.00 1.00 1.00
 Ns 2048.00
-newmtl pasted__chrome
-illum 4
-Kd 0.50 0.50 0.50
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__chrome2
-illum 4
-Kd 0.60 0.60 0.70
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__chrome5
+newmtl pasted__mrr005_mirror__V
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd DisplacementMapMetal.png
 Ni 1.00
 Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__chrome6
+Ns 2048.00
+newmtl pasted__mrr005_wood__Vra
 illum 4
-Kd 0.60 0.60 0.70
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__crome
-illum 4
-Kd 0.19 0.14 0.06
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 548.75
-newmtl pasted__def
-illum 4
-Kd 0.90 0.90 0.90
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 10.00
-newmtl pasted__def2
-illum 4
-Kd 0.90 0.90 0.90
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 10.00
-newmtl pasted__farfor
-illum 4
-Kd 0.90 0.90 0.90
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.60 0.60 0.60
-Ns 10.00
-newmtl pasted__farfor2
-illum 4
-Kd 0.90 0.90 0.90
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.60 0.60 0.60
-Ns 10.00
-newmtl pasted__farfor_black
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.60 0.60 0.60
-Ns 10.00
-newmtl pasted__farfor_black2
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.60 0.60 0.60
-Ns 10.00
-newmtl pasted__farfor_brown
-illum 4
-Kd 0.20 0.20 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.60 0.60 0.60
-Ns 10.00
-newmtl pasted__farfor_brown2
-illum 4
-Kd 0.20 0.20 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.60 0.60 0.60
-Ns 10.00
-newmtl pasted__glass_35
-illum 4
-Kd 0.40 0.40 0.40
-Ka 0.00 0.00 0.00
-Tf 0.20 0.20 0.20
-Ni 1.00
-Ks 0.70 0.70 0.70
-Ns 10.00
-newmtl pasted__glass_37
-illum 4
-Kd 0.40 0.40 0.40
-Ka 0.00 0.00 0.00
-Tf 0.20 0.20 0.20
-Ni 1.00
-Ks 0.70 0.70 0.70
-Ns 10.00
-newmtl pasted__interior1
-illum 4
-Kd 0.60 0.59 0.50
-Ka 0.10 0.10 0.10
-Tf 1.00 1.00 1.00
+map_Kd MRR00501.jpg
 Ni 1.00
 Ks 0.90 0.90 0.90
-Ns 10.56
-newmtl pasted__metal
+Ns 32.00
+newmtl pasted__pasted__Glass
 illum 4
-Kd 0.09 0.09 0.09
+Kd 0.80 0.76 0.46
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__metal2
-illum 4
-Kd 0.25 0.25 0.25
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__metal_black1
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__metal_black3
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__pasted__Material
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material12
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material14
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material16
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material18
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material20
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material22
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material24
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material26
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material28
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material30
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material32
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material34
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material36
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material38
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material40
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material42
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
+Tf 0.22 0.22 0.22
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
 newmtl pasted__pasted__Material_001
 illum 4
-Kd 1.00 0.84 0.23
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.07 0.07 0.07
 Ns 96.08
-newmtl pasted__pasted__Material_003
+newmtl pasted__pasted__Material_002
 illum 4
-Kd 0.01 0.01 0.01
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_011
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_013
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_015
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_017
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_019
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_021
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_023
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_025
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_027
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_029
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_031
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_033
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_035
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_037
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_039
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_041
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_043
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_045
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_047
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_049
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_051
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_053
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.15 0.15 0.15
 Ns 96.08
 newmtl pasted__pasted__Material_055
 illum 4
@@ -1174,681 +933,53 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__Material_097
+newmtl pasted__pasted__Metal
 illum 4
-Kd 1.00 0.84 0.23
+Kd 0.38 0.38 0.38
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__Material_099
+newmtl pasted__pasted__None
 illum 4
-Kd 0.01 0.01 0.01
+Kd 0.80 0.80 0.80
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00
+newmtl pasted__pasted__pasted__Glass
+illum 4
+Kd 0.80 0.76 0.46
+Ka 0.00 0.00 0.00
+Tf 0.22 0.22 0.22
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__Material_101
+newmtl pasted__pasted__pasted__Glass2
 illum 4
-Kd 0.03 0.03 0.03
+Kd 0.80 0.76 0.46
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_103
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_105
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_107
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_109
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_111
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_113
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_115
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_117
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_119
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_121
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_123
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_125
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_127
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_129
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__Material_131
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd grass.jpg
-Ni 1.00
-newmtl pasted__pasted__pasted__Material
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material12
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material14
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material16
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material18
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material20
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material22
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material24
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material26
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material28
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material30
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material32
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material34
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material36
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material38
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material40
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material42
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material44
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material46
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material48
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material50
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material52
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material54
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material56
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material58
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material60
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material62
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material64
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material66
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material68
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material70
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material72
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
+Tf 0.22 0.22 0.22
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
 newmtl pasted__pasted__pasted__Material_001
 illum 4
-Kd 1.00 0.84 0.23
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.07 0.07 0.07
 Ns 96.08
-newmtl pasted__pasted__pasted__Material_003
+newmtl pasted__pasted__pasted__Material_002
 illum 4
-Kd 0.01 0.01 0.01
+Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_011
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_013
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_015
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_017
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_019
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_021
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_023
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_025
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_027
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_029
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_031
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_033
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_035
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_037
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_039
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_041
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_043
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_045
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_047
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
+Ks 0.15 0.15 0.15
 Ns 96.08
 newmtl pasted__pasted__pasted__Material_049
 illum 4
@@ -2234,23 +1365,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__Material_145
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_147
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_149
+newmtl pasted__pasted__pasted__Material_192
 illum 4
 Kd 0.03 0.03 0.03
 Ka 0.00 0.00 0.00
@@ -2258,7 +1373,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__Material_151
+newmtl pasted__pasted__pasted__Material_194
 illum 4
 Kd 1.00 0.84 0.23
 Ka 0.00 0.00 0.00
@@ -2266,7 +1381,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__Material_153
+newmtl pasted__pasted__pasted__Material_196
 illum 4
 Kd 0.01 0.01 0.01
 Ka 0.00 0.00 0.00
@@ -2274,285 +1389,54 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__Material_155
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_157
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_159
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_161
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_163
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_165
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_167
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_169
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_171
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_173
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_175
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_177
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_179
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_181
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_183
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_185
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_187
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_189
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_191
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_193
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_195
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_197
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_199
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_201
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_203
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_205
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_207
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_209
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_211
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_213
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_215
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_217
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_219
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__Material_221
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__lambert2SG
+newmtl pasted__pasted__pasted__Material_198
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd grass.jpg
 Ni 1.00
+Ks 0.07 0.07 0.07
+Ns 96.08
+newmtl pasted__pasted__pasted__Material_199
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.15 0.15 0.15
+Ns 96.08
+newmtl pasted__pasted__pasted__Metal
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__Metal2
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__None
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00
+newmtl pasted__pasted__pasted__None2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.80 0.80 0.80
+Ns 0.00
 newmtl pasted__pasted__pasted__lambert2SG2
 illum 4
 Kd 0.00 0.00 0.00
@@ -2560,414 +1444,6 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd grass.jpg
 Ni 1.00
-newmtl pasted__pasted__pasted__pasted__Material
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material12
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material14
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material16
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material18
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material20
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material22
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material24
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material26
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material28
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material30
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material32
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material34
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material36
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material38
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material40
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material42
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material44
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material46
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material48
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material50
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material52
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material54
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material56
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material62
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material64
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material66
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material68
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material70
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material72
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material74
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material76
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material78
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material80
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material84
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_001
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_003
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_011
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__Material_013
 illum 4
 Kd 1.00 0.84 0.23
@@ -3009,102 +1485,6 @@ Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
 newmtl pasted__pasted__pasted__pasted__Material_023
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_025
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_027
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_029
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_031
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_033
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_035
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_037
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_039
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_041
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_043
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_045
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_047
 illum 4
 Kd 0.03 0.03 0.03
 Ka 0.00 0.00 0.00
@@ -3328,14 +1708,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_103
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__Material_105
 illum 4
 Kd 0.01 0.01 0.01
@@ -3400,30 +1772,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_121
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_123
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_125
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__Material_127
 illum 4
 Kd 1.00 0.84 0.23
@@ -3432,23 +1780,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_129
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_131
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_133
+newmtl pasted__pasted__pasted__pasted__Material_142
 illum 4
 Kd 1.00 0.84 0.23
 Ka 0.00 0.00 0.00
@@ -3456,7 +1788,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_135
+newmtl pasted__pasted__pasted__pasted__Material_144
 illum 4
 Kd 0.01 0.01 0.01
 Ka 0.00 0.00 0.00
@@ -3464,15 +1796,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_137
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_139
+newmtl pasted__pasted__pasted__pasted__Material_164
 illum 4
 Kd 1.00 0.84 0.23
 Ka 0.00 0.00 0.00
@@ -3480,7 +1804,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_141
+newmtl pasted__pasted__pasted__pasted__Material_166
 illum 4
 Kd 0.01 0.01 0.01
 Ka 0.00 0.00 0.00
@@ -3488,7 +1812,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_143
+newmtl pasted__pasted__pasted__pasted__Material_168
 illum 4
 Kd 0.03 0.03 0.03
 Ka 0.00 0.00 0.00
@@ -3496,7 +1820,23 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_145
+newmtl pasted__pasted__pasted__pasted__Material_170
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__Material_172
+illum 4
+Kd 0.03 0.03 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl pasted__pasted__pasted__pasted__Material_174
 illum 4
 Kd 1.00 0.84 0.23
 Ka 0.00 0.00 0.00
@@ -3504,7 +1844,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_147
+newmtl pasted__pasted__pasted__pasted__Material_176
 illum 4
 Kd 0.01 0.01 0.01
 Ka 0.00 0.00 0.00
@@ -3512,7 +1852,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_149
+newmtl pasted__pasted__pasted__pasted__Material_178
 illum 4
 Kd 0.03 0.03 0.03
 Ka 0.00 0.00 0.00
@@ -3520,7 +1860,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_151
+newmtl pasted__pasted__pasted__pasted__Material_180
 illum 4
 Kd 1.00 0.84 0.23
 Ka 0.00 0.00 0.00
@@ -3528,865 +1868,9 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_153
+newmtl pasted__pasted__pasted__pasted__Material_182
 illum 4
 Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_155
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_157
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_159
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_161
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_163
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_165
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_167
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_169
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_171
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_173
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_187
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_189
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_191
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_193
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_195
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_197
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_199
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_201
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_203
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_205
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_207
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_209
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_211
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_213
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_215
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_217
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_219
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_221
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_223
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_225
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_227
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_229
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_231
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_233
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_235
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_237
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_239
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_241
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_243
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_245
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_253
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_255
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__Material_257
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__lambert2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd grass.jpg
-Ni 1.00
-newmtl pasted__pasted__pasted__pasted__lambert2SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd grass.jpg
-Ni 1.00
-newmtl pasted__pasted__pasted__pasted__pasted__Material
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material12
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material14
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material28
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material30
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material32
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material34
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material36
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material38
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material40
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material42
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material44
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material46
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material48
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material54
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material56
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material62
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material64
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material66
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material68
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material70
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material72
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material74
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material76
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material78
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material80
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material82
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material84
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material86
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material88
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material90
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material92
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material94
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material96
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material98
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material100
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material102
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material104
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material116
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material118
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material120
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material122
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material124
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material126
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material128
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_001
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_003
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_011
-illum 4
-Kd 0.03 0.03 0.03
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
@@ -4488,54 +1972,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_037
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_039
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_041
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_043
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_045
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_047
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__pasted__Material_085
 illum 4
 Kd 1.00 0.84 0.23
@@ -4584,30 +2020,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_097
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_099
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_101
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__pasted__Material_103
 illum 4
 Kd 1.00 0.84 0.23
@@ -4648,14 +2060,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_113
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__pasted__Material_115
 illum 4
 Kd 1.00 0.84 0.23
@@ -4680,118 +2084,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_121
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_123
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_125
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_127
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_129
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_131
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_133
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_135
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_137
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_139
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_141
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_143
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_145
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_147
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
 newmtl pasted__pasted__pasted__pasted__pasted__Material_149
 illum 4
 Kd 0.03 0.03 0.03
@@ -4800,1262 +2092,7 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_163
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_165
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_167
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_169
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_171
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_173
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_187
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_189
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_191
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_193
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_195
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_197
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_199
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_201
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_203
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_205
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_207
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_209
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_211
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_213
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_215
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_217
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_219
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_221
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_223
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_225
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_227
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_229
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_231
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_233
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_235
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_237
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_239
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_241
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_243
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_245
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_247
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_249
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_251
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_253
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_255
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_257
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_259
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_261
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_263
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_265
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_267
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_269
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_271
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_273
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_275
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_277
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_279
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_281
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_283
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_285
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_287
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_289
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_291
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_293
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_295
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_297
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_299
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_301
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_303
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_305
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_307
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_309
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_311
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_313
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_315
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_317
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_349
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_351
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_353
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_355
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_357
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_359
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_361
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_363
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_365
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_367
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_369
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_371
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_373
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_375
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_377
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_379
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_381
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_383
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_385
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_387
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__Material_389
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd grass.jpg
-Ni 1.00
-newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd grass.jpg
-Ni 1.00
-newmtl pasted__pasted__pasted__pasted__pasted__lambert2SG6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd grass.jpg
-Ni 1.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material12
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material14
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material28
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material30
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material32
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material34
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material36
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material38
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material40
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material42
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material54
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material56
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material58
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material60
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material62
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material64
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material66
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material68
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material70
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material72
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material74
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material76
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material78
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material80
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material82
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material84
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material86
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material88
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material90
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material92
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material106
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material108
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material110
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material112
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material114
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material116
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material118
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material120
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material122
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material124
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material126
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material128
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material130
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material132
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material134
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material136
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_001
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_003
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_011
+newmtl pasted__pasted__pasted__pasted__pasted__Material_155
 illum 4
 Kd 0.03 0.03 0.03
 Ka 0.00 0.00 0.00
@@ -6111,2313 +2148,6 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.50 0.50 0.50
 Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_037
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_039
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_041
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_043
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_045
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_047
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_085
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_087
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_089
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_091
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_093
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_095
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_097
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_099
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_101
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_103
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_105
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_107
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_109
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_111
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_113
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_115
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_117
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_119
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_121
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_123
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_125
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_127
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_129
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_131
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_163
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_165
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_167
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_169
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_171
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_173
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_175
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_177
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_179
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_181
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_183
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_185
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_187
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_189
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_191
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_193
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_195
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_197
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_199
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_201
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_203
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_205
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_207
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_209
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_211
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_213
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_215
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_217
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_219
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_221
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_223
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_225
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_227
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_229
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_231
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_233
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_235
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_237
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_239
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_241
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_243
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_245
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_247
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_249
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_251
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_253
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_255
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_257
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_259
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_261
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_263
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_265
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_267
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_269
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_271
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_273
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_275
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_277
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_279
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_281
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_319
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_321
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_323
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_325
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_327
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_329
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_331
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_333
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_335
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_337
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_339
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_341
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_343
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_345
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_347
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_349
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_351
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_353
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_355
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_357
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_359
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_361
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_363
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_365
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_367
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_369
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_371
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_373
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_375
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_377
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_379
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_381
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_383
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_385
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_387
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_389
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_391
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_393
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_395
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_397
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_399
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_401
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_403
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_405
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_407
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_409
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_411
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__Material_413
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material12
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material14
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material16
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material18
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material24
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material26
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material106
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material108
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material110
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material112
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material114
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material116
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material118
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material120
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material122
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material124
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material126
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material128
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_001
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_003
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_005
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_007
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_009
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_011
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_013
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_015
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_017
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_019
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_021
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_023
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_025
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_027
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_029
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_031
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_033
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_035
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_037
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_039
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_041
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_043
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_045
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_047
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_049
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_051
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_053
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_055
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_057
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_059
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_073
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_075
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_077
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_079
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_081
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_083
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_319
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_321
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_323
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_325
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_327
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_329
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_331
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_333
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_335
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_337
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_339
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_341
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_343
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_345
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_347
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_349
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_351
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_353
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_355
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_357
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_359
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_361
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_363
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_365
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_367
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_369
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_371
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_373
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_375
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_377
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_379
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_381
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_383
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_385
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_387
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_389
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material24
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material26
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material28
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material30
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tijoloTextura.jpg
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_073
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_075
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_077
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_079
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_081
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_083
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_085
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_087
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_089
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_091
-illum 4
-Kd 1.00 0.84 0.23
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_093
-illum 4
-Kd 0.01 0.01 0.01
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Material_095
-illum 4
-Kd 0.03 0.03 0.03
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.50 0.50 0.50
-Ns 96.08
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG3
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG5
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG7
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG9
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG10
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__pasted__phong2SG11
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG3
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG5
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG7
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG8
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong2SG9
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong3SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong3SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__pasted__phong3SG3
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG3
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG4
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG5
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG6
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong2SG7
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__pasted__phong3SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
 newmtl pasted__pasted__pasted__phong2SG
 illum 4
 Kd 0.00 0.00 0.00
@@ -8427,25 +2157,7 @@ map_Kd old_road.png
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
-newmtl pasted__pasted__pasted__phong2SG1
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
 newmtl pasted__pasted__pasted__phong2SG2
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd old_road.png
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__pasted__pasted__phong2SG3
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
@@ -8472,12 +2184,11 @@ map_Kd Floor_Texture.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
-newmtl pasted__pasted__pasted__phong3SG1
+newmtl pasted__pasted__pasted__phong14SG
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
@@ -8490,16 +2201,7 @@ map_Kd old_road.png
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
-newmtl pasted__pasted__phong3SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd Floor_Texture.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-Ns 18.00
-newmtl pasted__phong2SG
+newmtl pasted__pasted__phong14SG
 illum 4
 Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
@@ -8507,57 +2209,78 @@ Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
+newmtl pasted__phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd texture_bookshelf_001_d.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks texture_bookshelf_001_s.jpg
+Ns 18.00
+newmtl pasted__phong2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.24 0.24 0.24
+Tf 1.00 1.00 1.00
+map_Kd stem.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
 newmtl pasted__phong2SG1
 illum 4
-Kd 0.15 0.15 0.15
+Kd 1.00 1.00 1.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
 Ks 0.00 0.00 0.00
-map_Ks SpecularMapMadera.png
 Ns 18.00
 newmtl pasted__phong2SG2
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd madera.jpg
+map_Kd texture_wood_0d.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
+map_Ks texture_wood_0s.jpg
 Ns 18.00
-newmtl pasted__phong2SG3
+newmtl pasted__phong2SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.03 0.03 0.03
+Tf 1.00 1.00 1.00
+map_Kd negro.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks NormalMapNegro.png
+Ns 35.00
+newmtl pasted__phong2SG5
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd bpng.jpg
-Ni 1.00
-Ks 0.00 0.00 0.00
-map_Ks bpng_NRM_Kopie.jpg
-Ns 18.00
-newmtl pasted__phong2SG5
-illum 4
-Kd 0.03 0.18 0.50
-Ka 0.00 0.00 0.00
-Tf 0.63 0.63 0.63
+map_Kd bag.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
 newmtl pasted__phong2SG6
 illum 4
 Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
+Ka 0.09 0.09 0.09
 Tf 1.00 1.00 1.00
-map_Kd sg_wd0804w8e-xsp_001_front.jpg
+map_Kd wood_d.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
+map_Ks wood_b.jpg
 Ns 18.00
 newmtl pasted__phong2SG7
 illum 4
 Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
-map_Kd Wd_sml_b.jpg
+map_Kd Texture-OlivaJPEG.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
@@ -8566,7 +2289,7 @@ illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
-map_Kd Pot_textures_col.jpg
+map_Kd bronze_2.JPG
 Ni 1.00
 Ks 0.00 0.00 0.00
 Ns 18.00
@@ -8576,102 +2299,35 @@ Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
-Ks 0.00 0.00 0.00
+Ks 1.00 1.00 1.00
 Ns 18.00
 newmtl pasted__phong3SG2
 illum 4
-Kd 0.00 0.00 0.00
+Kd 0.00 1.00 0.99
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd vio_red1.jpg
+Tf 0.23 0.23 0.23
 Ni 1.00
 Ks 0.00 0.00 0.00
-map_Ks Tred_sml.jpg
 Ns 18.00
-newmtl pasted__plastic_black
+newmtl pasted__phong3SG3
 illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
+Kd 0.84 0.84 0.84
+Ka 0.11 0.11 0.11
+Tf 0.94 0.94 0.94
 Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__plastic_black2
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__plastic_black4
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__plastic_black6
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 10.00
-newmtl pasted__stoleshenica
-illum 4
-Kd 0.10 0.10 0.10
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.10 0.10 0.10
-Ns 10.00
-newmtl pasted__stoleshenica2
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl pasted__phong4SG
 illum 4
 Kd 0.00 0.00 0.00
 Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd 3.jpg
+Tf 0.96 0.96 0.96
 Ni 1.00
-Ks 0.10 0.10 0.10
-Ns 10.00
-newmtl pasted__tube
+Ks 0.73 0.73 0.73
+Ns 18.00
+newmtl pasted__phong14SG
 illum 4
-Kd 0.28 0.32 0.36
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.90 0.90 0.90
-Ns 32.00
-newmtl pasted__white
-illum 4
-Kd 1.00 1.00 1.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 1.00 1.00 1.00
-Ns 157.59
-newmtl pasted__wire_115115115
-illum 4
-Kd 0.45 0.45 0.45
-Ka 0.45 0.45 0.45
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
-newmtl pasted__wire_228153184
-illum 4
-Kd 0.00 0.00 0.00
-Ka 1.00 1.00 1.00
-Tf 1.00 1.00 1.00
-Ni 1.00
-Ks 0.35 0.35 0.35
-Ns 32.00
-newmtl phong2SG
-illum 4
-Kd 0.87 0.87 0.87
+Kd 0.50 0.50 0.50
 Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 Ni 1.00
@@ -8703,4 +2359,92 @@ Tf 1.00 1.00 1.00
 map_Kd piso_baño.jpg
 Ni 1.00
 Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong11SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong13SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl phong14SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl sala1:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.36 0.13 0.22
+Tf 1.00 1.00 1.00
+map_Kd tela.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl sala1:pasted__phong2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl sala1:pasted__phong2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd bpng.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks bpng_NRM_Kopie.jpg
+Ns 18.00
+newmtl sala1:pasted__phong2SG8
+illum 4
+Kd 0.08 0.08 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl sala1:pasted__phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Pot_textures_col.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl sala1:pasted__phong3SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd android-tv-home-oreo-d01.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 18.00
+newmtl sala1:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd madera_mueble.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks madera_mueble.jpg
 Ns 18.00
